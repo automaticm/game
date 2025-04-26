@@ -1,5 +1,3 @@
-**
-
 ## Game - No Name Yet
 
 **

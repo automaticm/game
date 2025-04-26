@@ -13,5 +13,5 @@ As you can probably tell, I created this game using Unity. Now, I don't have a t
 
 // TODO
 
-## Compiling and Running
+## Playing the Game
 // TODO
